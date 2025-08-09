@@ -2,18 +2,6 @@
 ## 👀 About Me
 I’m a Full-Stack Developer with a strong focus on crafting scalable, responsive, and high-performing web applications. I specialize in React, Tailwind CSS, and TypeScript on the front end, and I build robust, maintainable backends to support seamless user experiences. I’m passionate about solving real-world problems through efficient, clean code and thoughtful UI/UX design.
 
-📚 Currently Exploring:
-	•	Advanced data science concepts and machine learning fundamentals
-	•	Optimizing backend architecture and performance
-	•	Scalable front-end component systems and accessibility best practices
-
-🤝 Open to Collaborations In:
-	•	Full-stack web development (frontend + backend)
-	•	Building responsive, user-friendly interfaces
-	•	Data science and analytics
-  •	Machine learning solutions
-    I love working on projects that are both technically challenging and impact-driven — let’s build something great.
-
 ## 🛠️ Tech Stack
 Languages: JavaScript, TypeScript, C#
 Frameworks: Express.js, Django, Node.js, React.js,TailwindCSS, ASP.NET
